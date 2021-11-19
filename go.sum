@@ -1,0 +1,4 @@
+github.com/CaioDetore/goarea v0.0.0-20211118180309-8a93dfa1a259 h1:Sf8Sn81loaNhimrKdcnl3EAdYWiK8CBLjSoIHfKviUY=
+github.com/CaioDetore/goarea v0.0.0-20211118180309-8a93dfa1a259/go.mod h1:Rz3VLlSb1okE2wutmRRNqfBzx0/+KruHuMwMA7Szlvg=
+github.com/lib/pq v1.10.4 h1:SO9z7FRPzA03QhHKJrH5BXA6HU1rS4V2nIVrrNC1iYk=
+github.com/lib/pq v1.10.4/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
